@@ -1,0 +1,43 @@
+html {
+	font-family: Verdana, Geneva, "sans-serif";
+}
+
+body {
+	background-color: blue;
+}
+
+#title {
+	text-align: center;
+	color: white;
+	margin-bottom: 15rem;
+}
+
+#container {
+	text-align: center;
+}
+
+#text {
+	color: white;
+}
+
+#color {
+	color: blue;
+}
+
+#background-color {
+	background-color: black;
+	border-radius: 0.5rem;
+	padding: 1rem;
+}
+
+#button {
+	outline: none;
+	margin-top: 1rem;
+	font-size: 1.5rem;
+	font-weight: bold;
+	padding: 1rem 2rem;
+	color: white;
+	background-color: blue;
+	border: 2px solid white;
+	border-radius: 1rem;
+}
